@@ -1,5 +1,5 @@
 # Patricia-Jiaying-Qian
-My short career goal is to become a quant researcher/strategist, risk quant or portfolio quant. I am now purchasing my master degree of Economics in NUS.
+My short career goal is to become a quant or data scientist. I am now purchasing my master degree of Economics in NUS.
 
 # Skill set
 ![Static Badge](https://img.shields.io/badge/Python-blue)   
